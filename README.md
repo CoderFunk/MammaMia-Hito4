@@ -1,2 +1,2 @@
-# MammaMia-Hito4
-Renderizar desde API con useEffect
+# MamaMiaPizzeria - Hito 2 "useStage"
+Login y Registro con validaciones.
